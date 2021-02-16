@@ -1,0 +1,21 @@
+2021-01-09 22:54:34,900: DEBUG: This is a debug message
+2021-01-09 22:54:34,901: INFO: This is a info
+2021-01-09 22:54:34,901: WARNING: This is a warning message
+2021-01-09 22:54:34,902: ERROR: This is a error
+2021-01-09 22:54:34,902: CRITICAL: This is Critical
+01/09/2021 10:59:16:PM: DEBUG: This is a debug message
+01/09/2021 10:59:16:PM: INFO: This is a info
+01/09/2021 10:59:16:PM: WARNING: This is a warning message
+01/09/2021 10:59:16:PM: ERROR: This is a error
+01/09/2021 10:59:16:PM: CRITICAL: This is Critical
+01/09/2021 10:59:16:PM: DEBUG: DELETE http://127.0.0.1:64628/session/f105890b2e920429a7fb29f6da9a1cfc/window {}
+01/09/2021 10:59:16:PM: DEBUG: http://127.0.0.1:64628 "DELETE /session/f105890b2e920429a7fb29f6da9a1cfc/window HTTP/1.1" 200 12
+01/09/2021 10:59:16:PM: DEBUG: Finished Request
+01/09/2021 11:04:32:PM: DEBUG: This is a debug message
+01/09/2021 11:04:32:PM: INFO: This is a info
+01/09/2021 11:04:32:PM: WARNING: This is a warning message
+01/09/2021 11:04:32:PM: ERROR: This is a error
+01/09/2021 11:04:32:PM: CRITICAL: This is Critical
+01/09/2021 11:04:32:PM: DEBUG: DELETE http://127.0.0.1:64849/session/a1839fffe01a6b5619331eb26ab44183/window {}
+01/09/2021 11:04:32:PM: DEBUG: http://127.0.0.1:64849 "DELETE /session/a1839fffe01a6b5619331eb26ab44183/window HTTP/1.1" 200 12
+01/09/2021 11:04:32:PM: DEBUG: Finished Request
